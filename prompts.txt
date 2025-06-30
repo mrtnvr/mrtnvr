@@ -1,0 +1,67 @@
+Redesign this room, list the items you used in json format with title, image_url of item and store_url for item to buy make sure the link are accesiable from Turkey.
+
+
+redesign this room with these products 
+
+[
+  {
+    "title": "NORDLI Bed Frame with Headboard (Queen)",
+    "image_url": "https://www.ikea.com/tr/tr/images/products/nordli-karyola-basi-beyaz__0738011_PE741917_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/yatak-odasi/yataklar-ve-bazalar/yataklar/nordli-beyaz-40349830"
+  },
+  {
+    "title": "LENAST Duvet Cover and Pillowcase Set (White)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/lenast-nevresim-takimi-beyaz__0633145_PE695887_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/yatak-odasi/nevresim-takimlari/lenast-beyaz-30373207"
+  },
+  {
+    "title": "HEMNES Bedside Table (White Stain)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/hemnes-komodin-beyaz__0720938_PE732017_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/yatak-odasi/komodinler/hemnes-beyaz-40374286"
+  },
+  {
+    "title": "LAGKAPTEN / ALEX Desk (White)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/lagkapten-alex-calisma-masasi-beyaz__1051240_PE845226_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/calisma-odasi/masalar/calisma-masalari/lagkapten-alex-beyaz-49416856"
+  },
+  {
+    "title": "MARKUS Ergonomic Office Chair",
+    "image_url": "https://www.ikea.com.tr/images/urunler/markus-calisma-sandalyesi-siyah__0725864_PE734088_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/calisma-odasi/sandalyeler/calisma-sandalyeleri/markus-siyah-70261150"
+  },
+  {
+    "title": "STRANDMON Armchair (Beige)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/strandmon-berjer-bej__0418537_PE574512_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/oturma-odasi/koltuklar/berjerler/strandmon-bej-30359961"
+  },
+  {
+    "title": "LISTERBY Coffee Table (Oak Veneer)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/listerby-sehpa-meşe-kaplama__0813117_PE772658_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/salon/sehpalar/listerby-mese-kaplama-20413719"
+  },
+  {
+    "title": "LILL Curtains (Sheer White, 2 Panels)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/lill-tul-perde-beyaz__0726776_PE735025_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/perde-ve-jaluzi/tul-perdeler/lill-beyaz-80212299"
+  },
+  {
+    "title": "LOHALS Flatwoven Rug (160x230 cm)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/lohals-dokuma-hali-naturel__0726215_PE734785_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/hali-ve-kilimler/hali/lohals-naturel-20277395"
+  },
+  {
+    "title": "BJÖRKSTA Framed Wall Art",
+    "image_url": "https://www.ikea.com.tr/images/urunler/bjorksta-cerceveli-tablo__0852752_PE782989_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/ev-dekorasyon/duvar-susu-ve-tablolar/bjorksta-cerceveli-tablo-00430146"
+  },
+  {
+    "title": "ÅRSTID Table Lamp (Brass/White)",
+    "image_url": "https://www.ikea.com.tr/images/urunler/arstid-masa-lambasi-pirincli-beyaz__0444469_PE595289_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/aydinlatma/masa-lambalari/arstid-pirincli-beyaz-90196302"
+  },
+  {
+    "title": "FEJKA Artificial Potted Plant",
+    "image_url": "https://www.ikea.com.tr/images/urunler/fejka-yapay-saksili-bitki-yesil__0727977_PE735692_S5.JPG",
+    "store_url": "https://www.ikea.com.tr/urunler/ev-dekorasyon/yapay-cicekler/fejka-yesil-90375159"
+  }
+]
