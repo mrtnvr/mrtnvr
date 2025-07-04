@@ -1,0 +1,32 @@
+[
+  {
+    "item": "Lightweight Black Bomber Jacket",
+    "brand": "H&M",
+    "link": "https://www2.hm.com/en_us/productpage.0689248001.html",
+    "image": "https://lp2.hm.com/hmgoepprod?set=source[/55/3e/553e97f4e44af7dd8490e4b7f153b5d19a44e5c5.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]"
+  },
+  {
+    "item": "White Crew Neck T-Shirt",
+    "brand": "Uniqlo",
+    "link": "https://www.uniqlo.com/us/en/men-supima-cotton-crew-neck-short-sleeve-t-shirt-422479.html",
+    "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/422479/item/usgoods_00_422479.jpg"
+  },
+  {
+    "item": "Slim-Fit Black Chinos",
+    "brand": "Gap",
+    "link": "https://www.gap.com/browse/product.do?pid=564280012",
+    "image": "https://www.gap.com/webcontent/0019/255/380/cn19255380.jpg"
+  },
+  {
+    "item": "White Sneakers",
+    "brand": "Adidas Stan Smith",
+    "link": "https://www.adidas.com/us/stan-smith-shoes/M20324.html",
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/34587f6dc9eb45b1b45ca8d9013e7e3c_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg"
+  },
+  {
+    "item": "Black Leather Casual Belt",
+    "brand": "Levi's",
+    "link": "https://www.levi.com/US/en_US/clothing/accessories/belts/levi-s-washed-leather-belt/p/380210173",
+    "image": "https://lsco.scene7.com/is/image/lsco/380210173-front-pdp"
+  }
+]
