@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Ünver</h1>
-<h3 align="center">Student from Ankara/Turkey!</h3>
+<h3 align="center">Software Engineer from Ankara/Turkey!</h3>
 
 - 📫 How to reach me **unvermert@windowslive.com**
 
